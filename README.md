@@ -2,7 +2,7 @@
 
 ## Requirement Description
 
-I need a solution to extract specific data from a CSV file. The fields I require may change dynamically based on the actual situation. 
+I want to get specific data from a CSV file. This way, I can find the right person for assign based on the conditions. The fields I require may change dynamically based on the actual situation. 
 
 ### Key Points
 
